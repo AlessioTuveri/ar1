@@ -1,2 +1,2 @@
 # web_ar_dea_madre
- https://alessiotuveri.github.io/ar1/.
+ https://alessiotuveri.github.io/ar1/
